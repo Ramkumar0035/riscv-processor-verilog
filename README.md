@@ -33,5 +33,3 @@ This project implements a 32-bit RISC-V processor in Verilog with a 5-stage pipe
 - Successfully simulated pipeline execution
 - Verified multiple instruction test cases
 
-## Output
-(Add waveform screenshots here)
